@@ -239,4 +239,7 @@ a {
   .nein {
     width: 33%;
   }
+  .other{
+    padding: 10px 20px;
+  }
 }
