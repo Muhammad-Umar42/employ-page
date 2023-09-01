@@ -45,7 +45,7 @@
   background-color: #39496f0d;
   padding: 0px 30px;
   padding-bottom: 50px;
-  margin-bottom: 20px;
+  margin-bottom: 60px;
 }
 .label {
   color: var(--blue-t);
@@ -198,9 +198,7 @@ a {
   color: white;
 }
 
-.footer .hr {
-  padding: 15px 0px;
-}
+
 
 
 @media screen and (max-width: 768px) {
