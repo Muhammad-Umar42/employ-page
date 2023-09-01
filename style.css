@@ -233,9 +233,10 @@ a {
   .end {
     display: block;
   }
-  .link {
-    text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
+  .ja {
+    width: 22%;
+  }
+  .nein {
+    width: 33%;
   }
 }
