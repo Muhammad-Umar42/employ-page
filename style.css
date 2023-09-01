@@ -157,7 +157,7 @@
 }
 .other{
     display: flex;
-    max-width: 200px;
+    max-width: 235px;
     justify-content: space-between;
     margin-bottom: 30px;
 }
